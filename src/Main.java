@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+        //Adrian Flores Rangel
         ContactDirectory directory = new ContactDirectory();
 
         directory.addContact(new Contact(1,"Adrian","6462763442","afr.1993@gmail.com","Personal"));
